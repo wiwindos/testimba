@@ -8,7 +8,7 @@ from vk_processor import upload_audio_file, process_audio, get_upload_url, check
 from audio_manager import move_to_archive
 
 # Инициализация Telegram Bot
-bot = TeleBot("7161892299:AAGauiJPQdsSRXWrgnYuxGnxxFFAjtOOZ_4")
+bot = TeleBot("")
 
 # ID пользователя, которому будет отправлен запрос на обработку файла
 user_id = 148918255

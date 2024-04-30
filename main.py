@@ -8,7 +8,7 @@ from audio_manager import move_to_archive
 # Путь к папке, которую мы мониторим
 folder_path_search = 'audio'
 folder_path_arch = 'archive'
-access_token = "aad92271aad92271aad92271e4a9c10891aaad9aad92271cce9ffcd8a0cbba00af4e2d5"
+access_token = ""
 
 # Создаем папку "archive", если она еще не создана
 archive_path = 'archive'
